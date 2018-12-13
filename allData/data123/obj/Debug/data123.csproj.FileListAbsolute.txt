@@ -1,0 +1,48 @@
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\bin\Debug\data123.exe.config
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\bin\Debug\data123.exe
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\bin\Debug\data123.pdb
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.csprojResolveAssemblyReference.cache
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.Form1.resources
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.Properties.Resources.resources
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.csproj.GenerateResource.Cache
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.exe
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.pdb
+C:\Users\fatima\Desktop\C#\Forms\data123\data123\obj\Debug\data123.Form2.resources
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\bin\Debug\data123.exe.config
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.exe
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.pdb
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\bin\Debug\data123.exe
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\bin\Debug\data123.pdb
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.csprojResolveAssemblyReference.cache
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.Form1.resources
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.Form2.resources
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.Properties.Resources.resources
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.csproj.GenerateResource.Cache
+C:\Users\fatima\Desktop\C#\Forms\database\allData\data123\obj\Debug\data123.Form3.resources
+C:\Users\sobia\Desktop\allData\data123\bin\Debug\data123.exe.config
+C:\Users\sobia\Desktop\allData\data123\obj\Debug\data123.exe
+C:\Users\sobia\Desktop\allData\data123\obj\Debug\data123.pdb
+Z:\ACCP\DISM\C#\C #\my\form\database\allData\data123\bin\Debug\data123.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\database\allData\data123\obj\Debug\data123.exe
+Z:\ACCP\DISM\C#\C #\my\form\database\allData\data123\obj\Debug\data123.pdb
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\bin\Debug\data123.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.exe
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.pdb
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.Form1.resources
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.Form2.resources
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.Form3.resources
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\my\form\database_5\allData\data123\obj\Debug\data123.csproj.GenerateResource.Cache
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\bin\Debug\data123.exe.config
+\\server2\Faculty_Drive\Sajida Sharmeen\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.exe
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\bin\Debug\data123.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.exe
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.Form1.resources
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.Form2.resources
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.Form3.resources
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.Properties.Resources.resources
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.csproj.GenerateResource.Cache
+C:\Users\sajida\Desktop\allData\data123\bin\Debug\data123.exe.config
+C:\Users\sajida\Desktop\allData\data123\obj\Debug\data123.exe

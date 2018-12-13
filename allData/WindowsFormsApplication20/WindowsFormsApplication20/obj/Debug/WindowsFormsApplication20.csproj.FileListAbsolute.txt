@@ -1,0 +1,14 @@
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\Database1.mdf
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\Database1_log.ldf
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+c:\users\sajida\documents\visual studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+C:\Users\sajida\Documents\Visual Studio 2013\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
