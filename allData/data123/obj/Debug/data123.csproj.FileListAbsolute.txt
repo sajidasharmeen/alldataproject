@@ -46,3 +46,5 @@ Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\dat
 Z:\ACCP\DISM\C#\C #\my\form\my_database\database_5\allData\data123\obj\Debug\data123.csproj.GenerateResource.Cache
 C:\Users\sajida\Desktop\allData\data123\bin\Debug\data123.exe.config
 C:\Users\sajida\Desktop\allData\data123\obj\Debug\data123.exe
+C:\Users\sajida\Desktop\alldataproject\allData\data123\bin\Debug\data123.exe.config
+C:\Users\sajida\Desktop\alldataproject\allData\data123\obj\Debug\data123.exe
